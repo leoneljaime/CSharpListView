@@ -1,2 +1,4 @@
 # CSharpListView
-Desenvolvimento em C# com ListView e GridView
+Desenvolvido em C# com ListView e GridView
+
+Faz a listagem de carteira de clientes
